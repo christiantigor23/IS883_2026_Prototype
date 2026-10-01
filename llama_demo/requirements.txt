@@ -2,3 +2,5 @@
 streamlit
 huggingface-hub
 llama-cpp-python==0.3.35
+pypdf
+rank-bm25
